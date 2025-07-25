@@ -111,9 +111,4 @@ scikit-learn
 - MobileNetV2 generalizes better with frozen layers
 - Custom CNN still performs decently but is limited without deeper architecture
 
-## Next Steps
 
-- Fine-tune last layers of MobileNetV2 or ResNet50
-- Add early stopping and learning rate scheduler
-- Use Grad-CAM for interpretability
-- Expand dataset size
